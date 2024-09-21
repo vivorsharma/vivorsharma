@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivor Sharma
 ======================================================================================================================================
-<h4>Software Enginner</h4>
 
 # 💫 About Me:
 🔭 I’m currently working on a MERN Project<br>👯 I’m looking to collaborate <br>🌱 I’m Interested to work on Web 3.0<br>💬 Ask me about Technology & Finance<br>📫 How to reach me: vivhor3875sharma@gmail.com<br>⚡ Fun fact: I'm currently studying Masters in Computer Applications
